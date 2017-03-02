@@ -18,7 +18,12 @@
     <body>
       <div class="navbar-container">
       <nav class="navbar navbar-light bg-faded mb-2">
-        <a class="navbar-brand" href="//signdict.org">SignDict</a>
+
+        {% if site.lang == "de" %}
+          <a class="navbar-brand" href="/">SignDict</a>
+        {% else %}
+          <a class="navbar-brand" href="/{{ site.lang }}">SignDict</a>
+        {% endif %}
 
         <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
         <div class="collapse navbar-toggleable-xs" id="navbarResponsive">
