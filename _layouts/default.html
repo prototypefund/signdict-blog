@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        {% capture title %}{% t page.title %}{% endcapture %}
+        <title>SignDict - {{ title | default: page.title }}</title>
+
+        {% feed_meta %}
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/default.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> 
+      </head>
+    <body>
+      <div class="navbar-container">
+      <nav class="navbar navbar-light bg-faded mb-2">
+        <a class="navbar-brand" href="//signdict.org">SignDict</a>
+
+        <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+        <div class="collapse navbar-toggleable-xs" id="navbarResponsive">
+          <ul class="nav navbar-nav float-sm-right navbar-toggleable-xs">
+            <li class="nav-item">
+              <a class="nav-link" href="/about">{% t global.imprint %}</a>
+            </li>
+            <li class="nav-item">
+              |
+            </li>
+            <li class="nav-item">
+              {% capture english_link %}{{ site.baseurl_root | default: "/" }}en{{ page.url }}{% endcapture %}
+              <a class="nav-link" href="{{ english_link }}">English</a>
+            </li>
+            <li class="nav-item">
+              {% capture german_link %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+              <a class="nav-link" href="{{ german_link }}">German</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+      <div class="container">
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <div class="footer">
+            <div class='col-3'>
+              <a href='http://bmbf.de'><img class='footer--logo' alt='Geförder vom Bundesministerium für Bildung und Forschung' src='/images/logo-bmbf.svg'/></a>
+              <a href='http://prototypefund.de'><img class='footer--logo' alt='Protoype Fund Logo' src='/images/logo-prototype.svg'/></a>
+            </div>
+        </div>
+
+      </div>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+    </body>
+</html>
+

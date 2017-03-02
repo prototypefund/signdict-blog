@@ -1,0 +1,7 @@
+global:
+  news: News
+  subscribe: "Want to stay up to date? Follow us on <a href='https://twitter.com/signdict'>auf Twitter</a> or sign up for our newsletter:"
+  imprint: Imprint
+
+titles:
+  about: About the project

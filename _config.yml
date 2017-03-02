@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: SignDict
+email: mail@signdict.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the blog of SignDict. SignDict is a crowd sourced
+  sign language dictionary.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: signdict
+github_username:  signdict
+
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 markdown: kramdown
@@ -30,6 +31,8 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-sass-converter
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

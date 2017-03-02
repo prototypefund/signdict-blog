@@ -1,0 +1,79 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+h1 {
+  font-size: 1.2em
+}
+
+.container {
+  max-width: 960px !important;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 130%;
+
+  h1, h2, h3 {
+    font-weight: 700;
+    margin: 1em 0;
+  }
+
+  p {
+    text-align: justify;
+
+    img {
+      max-width: 100%;
+    }
+  }
+
+}
+
+.navbar-container {
+  .navbar {
+    background-color: white;
+    max-width: 960px;
+    margin: 0 auto;
+    .navbar-brand {
+      font-size: 2em;
+      font-weight: 700;
+    }
+    .nav-link {
+      display: inline
+    }
+  }
+}
+
+.footer {
+  .footer--logo {
+    height: 7em;
+  }
+}
+
+@media (min-width: 544px) {
+  .form-email {
+    width: 300px !important;
+  }
+  .newsletter-subscribe {
+    margin-top: 2em;
+  }
+  .footer {
+    margin-bottom: 2em;
+  }
+}
+
+@media (max-width: 543px) {
+
+  .navbar-brand {
+    float: none;
+    margin-top: 1px;
+    display: inline-block;
+  }
+
+  .newsletter-subscribe {
+    margin-top: 1em;
+  }
+
+  .footer {
+    margin-bottom: 1em;
+  }
+}
