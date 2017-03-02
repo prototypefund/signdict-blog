@@ -59,6 +59,11 @@ h1 {
   .footer {
     margin-bottom: 2em;
   }
+
+  .nav-about:after {
+    margin-left: 0.7em;
+    content: ' |'
+  }
 }
 
 @media (max-width: 543px) {

@@ -24,10 +24,7 @@
         <div class="collapse navbar-toggleable-xs" id="navbarResponsive">
           <ul class="nav navbar-nav float-sm-right navbar-toggleable-xs">
             <li class="nav-item">
-              <a class="nav-link" href="/about">{% t global.imprint %}</a>
-            </li>
-            <li class="nav-item">
-              |
+              <a class="nav-link nav-about" href="/about">{% t global.imprint %}</a>
             </li>
             <li class="nav-item">
               {% capture english_link %}{{ site.baseurl_root | default: "/" }}en{{ page.url }}{% endcapture %}
@@ -50,7 +47,7 @@
 
         <div class="footer">
             <div class='col-3'>
-              <a href='http://bmbf.de'><img class='footer--logo' alt='Geförder vom Bundesministerium für Bildung und Forschung' src='/images/logo-bmbf.svg'/></a>
+              <a href='http://bmbf.de'><img class='footer--logo' alt='Gefördert vom Bundesministerium für Bildung und Forschung' src='/images/logo-bmbf.svg'/></a>
               <a href='http://prototypefund.de'><img class='footer--logo' alt='Protoype Fund Logo' src='/images/logo-prototype.svg'/></a>
             </div>
         </div>
