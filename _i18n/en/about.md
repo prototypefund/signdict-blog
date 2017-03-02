@@ -31,7 +31,7 @@ but we will add more languages as we grow.
 
 # Why do you build this?
 
-![Bodo](images/bodo.jpg)
+![Bodo](/images/bodo.jpg)
 
 I am a [CODA](https://en.wikipedia.org/wiki/Child_of_deaf_adult), a child of
 deaf adults. Since I started to see videos appear online, I was dreaming of a
