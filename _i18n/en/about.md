@@ -55,6 +55,8 @@ Thanks to the [Prototype Fund](http://prototypefund.de/en/), the
 their [jury](https://prototypefund.de/2016/10/25/1022/) for selecting this project
 as a finalist of the 1st round of the Prototype Fund.
 
+{% include newsletter.html %}
+
 # Imprint
 
 [Bodo Tasche](http://bodo.tasche.me)  

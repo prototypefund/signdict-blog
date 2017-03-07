@@ -64,6 +64,8 @@ und wird durch das
 Danke an die [Jury](https://prototypefund.de/2016/10/25/1022/) für die Auswahl meines
 Projektes für den Prototype Fund.
 
+{% include newsletter.html %}
+
 # Impressum
 
 [Bodo Tasche](http://bodo.tasche.me)  
