@@ -46,7 +46,7 @@ are solved now and I can start building it.
 Every video will be licensed under a
 [Creative Commons](https://creativecommons.org/) license
 and the code running the website will be licensed under the
-[MIT](https://en.wikipedia.org/wiki/MIT_License).
+[MPL](https://www.wikiwand.com/en/Mozilla_Public_License).
 
 # Funding
 

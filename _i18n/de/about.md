@@ -52,7 +52,7 @@ Gebärdensprach-Wörterbuch steht nichts mehr im Weg.
 # OpenSource
 
 Die Videos werden unter einer [Creative Commons](https://creativecommons.org/)
-Lizenz und der Quelltext unter die [MIT](https://en.wikipedia.org/wiki/MIT_License)
+Lizenz und der Quelltext unter die [MPL](https://www.wikiwand.com/en/Mozilla_Public_License)
 gestellt.
 
 # Finanzierung
