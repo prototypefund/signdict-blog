@@ -3,6 +3,7 @@ global:
   subscribe: "Want to stay up to date? Follow us on <a href='https://twitter.com/signdict'>auf Twitter</a> or sign up for our newsletter:"
   imprint: Imprint
   signup: Sign up
+  about: About
 
 titles:
   about: About the project

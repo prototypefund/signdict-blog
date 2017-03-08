@@ -56,14 +56,3 @@ their [jury](https://prototypefund.de/2016/10/25/1022/) for selecting this proje
 as a finalist of the 1st round of the Prototype Fund.
 
 {% include newsletter.html %}
-
-# Imprint
-
-[Bodo Tasche](http://bodo.tasche.me)  
-Richard-Sorge-Str. 58  
-10249 Berlin  
-Germany
-
-+49 1512 7533048
-
-[mail@signdict.org](mailto:mail@signdict.org)

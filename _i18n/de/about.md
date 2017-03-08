@@ -65,13 +65,3 @@ Danke an die [Jury](https://prototypefund.de/2016/10/25/1022/) für die Auswahl 
 Projektes für den Prototype Fund.
 
 {% include newsletter.html %}
-
-# Impressum
-
-[Bodo Tasche](http://bodo.tasche.me)  
-Richard-Sorge-Str. 58  
-10249 Berlin  
-
-+49 1512 7533048
-
-[mail@signdict.org](mailto:mail@signdict.org)

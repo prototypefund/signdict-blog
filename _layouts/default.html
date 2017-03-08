@@ -29,16 +29,22 @@
         <div class="collapse navbar-toggleable-xs" id="navbarResponsive">
           <ul class="nav navbar-nav float-sm-right navbar-toggleable-xs">
             <li class="nav-item">
-              <a class="nav-link nav-about" href="/about">{% t global.imprint %}</a>
+              <a class="nav-link nav-about" href="/about">{% t global.about%}</a>
             </li>
             <li class="nav-item">
-              {% capture english_link %}{{ site.baseurl_root | default: "/" }}en{{ page.url }}{% endcapture %}
-              <a class="nav-link" href="{{ english_link }}">English</a>
+              <a class="nav-link nav-about" href="/imprint">{% t global.imprint %}</a>
             </li>
-            <li class="nav-item">
-              {% capture german_link %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
-              <a class="nav-link" href="{{ german_link }}">German</a>
-            </li>
+            {% if site.lang == "de" %}
+              <li class="nav-item">
+                {% capture english_link %}{{ site.baseurl_root | default: "/" }}en{{ page.url }}{% endcapture %}
+                <a class="nav-link" href="{{ english_link }}">English</a>
+              </li>
+            {% else %}
+              <li class="nav-item">
+                {% capture german_link %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+                <a class="nav-link" href="{{ german_link }}">German</a>
+              </li>
+            {% endif %}
           </ul>
         </div>
       </nav>
