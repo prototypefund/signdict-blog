@@ -1,7 +1,7 @@
 # What is SignDict?
 
-This project will be an open sign language dictionary. A sign missing, or you know another
-sign for the word? Record and add it with one click.
+This project will be an open sign language dictionary. A sign missing, or you
+know another sign for the word? Record and add it with one click.
 
 This project is funded by the [Prototype Fund](http://prototypefund.de). Start
 of development is the 1st of March 2017.
@@ -18,11 +18,11 @@ The goal is to create the first interactive sign language dictionary in which
 everyone can participate in without any technical knowledge.
 
 If you search for online sign language dictionaries, you will find lots of
-them. Sadly most only have a few hundred words and don't allow to add new
-signs. Additionally most only show one sign for a word. I want to try to
+them. Sadly most have a few hundred words and don't allow to add new signs.
+Additionally only a few show more than one sign for a word. I want to try to
 have as many sign variations for a word as possible.
 
-This lead to the idea to crowdsource the dictionary.  Everyone can participate
+This lead to the idea to crowdsource the dictionary. Everyone can participate
 and add a sign. Most computers nowadays have a webcam with a quality that is
 sufficient to record sign language. Together we as the sign language community
 can build an interactive dictionary. One that has as many signs as possible.
