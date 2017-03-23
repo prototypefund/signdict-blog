@@ -6,7 +6,7 @@ permalink: /imprint/
 # {% t global.imprint %}
 
 [Bodo Tasche](http://bodo.tasche.me)  
-Richard-Sorge-Str. 58  
+Richard-Sorge-Str. 59  
 10249 Berlin  
 
 +49 1512 7533048
