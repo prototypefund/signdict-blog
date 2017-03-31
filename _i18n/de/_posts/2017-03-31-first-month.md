@@ -18,7 +18,7 @@ eine kleine Vorschau, wie die Seite aussehen könnte:
 
 Neben rrbone und zweitag haben mir auch noch Tobias und Jan tatkräftig
 unter die Arme gegriffen bei der Programmierung. Ich bin immer noch
-sprachlos über die ganze Hilfsbereitschaft, dir mir entgegen gebracht
+sprachlos über die ganze Hilfsbereitschaft, die mir entgegen gebracht
 wurde 🎉. Ein dickes Dankeschön von mir dafür an euch!
 
 Als nächstes steht nun der Einbau des Designs an. Ich hoffe bis Ende
