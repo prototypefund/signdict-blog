@@ -37,7 +37,8 @@ Anfang machen wir mit der deutschen Gebärdensprache (DGS).
 
 # Warum baue ich diese Seite?
 
-![Bodo](/images/bodo.jpg)
+![Bodo](/images/bodo.jpg)<br/>
+<sup>(Foto von <a href='http://carolinweinkopf.de/'>Carolin Weinkopf</a>)</sup>
 
 Ich bin ein [CODA](https://en.wikipedia.org/wiki/Child_of_deaf_adult), meine
 Eltern sind gehörlos, und ich träume schon seit dem ersten Auftauchen von
