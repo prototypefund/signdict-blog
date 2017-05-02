@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second month"
-date:   2017-05-02 12:0:0 +0100
+date:   2017-05-02 8:0:0 +0100
 ---
 The second month is over and I made really good progress. The design is now
 added and it is possible to play, rate and search videos. Only a couple of

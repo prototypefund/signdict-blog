@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zweiter Monat"
-date:   2017-05-02 12:0:0 +0100
+date:   2017-05-02 8:0:0 +0100
 ---
 Der zweite Monat ist nun vorbei und ich bin sehr gut
 voran gekommen. Das Design ist eingebaut und ich kann
