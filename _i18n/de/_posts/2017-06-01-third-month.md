@@ -11,11 +11,11 @@ findet Ihr nun über 4.000 Gebärden. Falls Ihr noch kaum
 Berührung mit der deutschen Gebärdensprache hattet, werdet
 Ihr euch vielleicht wundern, warum es bei einigen Wörtern
 mehrere unterschiedliche Gebärden gibt. Dies sind unterschiedliche
-Dialekte. Bei diesen Varianten kann jeder die für sich gebrauchte
+Dialekte. Bei diesen Varianten kann jeder die für sich bekannte
 Gebärde "liken". Wenn genug Menschen dies machen, kann ich die
 meist gebräuchlichen Varianten der Wörter als erstes anzeigen.
 
-Bitte probiert die Seite aus und [schreibt mir](http://beta.signdict.org/contact), wie ihr die Seite
+Bitte probiert die Seite aus und [schreibt mir](http://beta.signdict.org/contact), wie ihr sie
 findet.
 
 Was Ihr allerdings noch nicht in der Beta finden werdet, ist die
