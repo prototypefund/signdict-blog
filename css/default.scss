@@ -3,15 +3,72 @@
 # only Main files contain this front matter, not partials.
 ---
 
+$highlight:        #50D8C8;
+
+@font-face {
+  font-family: 'SignDict';
+  src: url('//beta.signdict.org/signdict-regular-webfont.woff2') format('woff2'),
+       url('//beta.signdict.org/signdict-regular-webfont.woff') format('woff'),
+       url('//beta.signdict.org/signdict-regular-webfont.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'SignDict';
+  src: url('//beta.signdict.org/signdict-medium-webfont.woff2') format('woff2'),
+       url('//beta.signdict.org/signdict-medium-webfont.woff') format('woff'),
+       url('//beta.signdict.org/signdict-medium-webfont.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'SignDict';
+  src: url('//beta.signdict.org/signdict-bold-webfont.woff2') format('woff2'),
+       url('//beta.signdict.org/signdict-bold-webfont.woff') format('woff'),
+       url('//beta.signdict.org/signdict-bold-webfont.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+a, a:hover, a:focus {
+  color: $highlight;
+}
+
+body {
+  font-family: SignDict,Helvetica Neue;
+}
+
+.card {
+  border-color: $highlight;
+}
+
+.btn-primary {
+  border-color: $highlight;
+  background-color: $highlight;
+}
+
+
+p.meta {
+  font-style: italic;
+  margin-top: -1.2em;
+  font-size: 0.7em;
+}
+
 h1 {
   font-size: 1.2em
 }
 
+.navbar-container .navbar {
+  max-width: 768px !important;
+}
+
 .container {
-  max-width: 960px !important;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  font-size: 130%;
+  max-width: 768px !important;
+  font-family: SignDict,Helvetica Neue;
+  font-weight: 100;
+  font-size: 100%;
 
   h1, h2, h3 {
     font-weight: 700;
