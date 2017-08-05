@@ -20,6 +20,10 @@ einen Artikel auf [hoergeschaedigt.de](https://www.hoergeschaedigte.com/index.ph
 und viele Tweets und Facebook Posts, zum Beispiel von
 [Leidmedien](https://twitter.com/leidmedien/status/892664243098722304).
 
+Für alle, die gerne über SignDict oder Gebärdensprache
+reden wollen habe ich einen neue Community Seite erstellt
+die Ihr hier finden könnt: [community.signdict.org](https://community.signdict.org/).
+
 Wenn dir SignDict gefällt, wäre es schön, wenn du
 mir dabei hilfst, die Seite bekannter zu machen. Twittere
 darüber, schreibe Facebook Posts oder Blogposts. Ich

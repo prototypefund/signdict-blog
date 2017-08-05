@@ -17,6 +17,9 @@ the site. The reaction was an article on [hoergeschaedigt.de](https://www.hoerge
 and lots of tweets and facebook posts. For example by
 [Leidmedien](https://twitter.com/leidmedien/status/892664243098722304).
 
+For anyone who wants to discuss SignDict or Sign Language I
+created a new community page that can be found under [community.signdict.org](https://community.signdict.org/).
+
 It would be awesome if you helped me by sharing the site on Twitter
 and Facebook, too. I would be really happy about every tweet and
 post.
