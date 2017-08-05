@@ -11,7 +11,7 @@ Die Aufnahme funktioniert und die Seite bekommt
 langsam aber sicher immer mehr Besucher.
 
 Eines der neuen Features in diesem Monat ist der
-neue Videoplayer. Dieser erlaubt es nun auch,
+neue [Videoplayer](https://signdict.org/entry/2305-langsam). Dieser erlaubt es nun auch,
 die Geschwindigkeit zu verlangsamen, um die
 Bewegungen besser sehen zu können. Abgesehen
 vom Programmieren habe ich mit vielen Menschen geredet und

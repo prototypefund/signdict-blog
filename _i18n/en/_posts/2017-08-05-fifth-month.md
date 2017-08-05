@@ -10,7 +10,7 @@ in the 1.0 version. The recording works and SignDict
 is slowly getting more visitors.
 
 One of the new features I added last month was the
-new video player. With it you can now reduce the playback
+new [video player](https://signdict.org/entry/2305-langsam). With it you can now reduce the playback
 speed to better understand the hand movements. Aside from all
 the development I talked to a lot of people to promote
 the site. The reaction was an article on [hoergeschaedigt.de](https://www.hoergeschaedigte.com/index.php/2017/07/18/gebaerdensprache-was-ist-signdict/)
