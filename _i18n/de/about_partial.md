@@ -6,4 +6,4 @@ aufgenommen und hinzugefügt werden. Der Name SignDict setzt sich zusammen aus
 Sign, dem englischen Wort für Gebärde, und Dictionary, dem englischen Wort für
 Wörterbuch.
 
-[Weiterlesen...](/about)
+[Weiterlesen...](https://signdict.org/about?locale=de)

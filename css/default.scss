@@ -138,3 +138,62 @@ h1 {
     margin-bottom: 1em;
   }
 }
+
+.posts {
+  padding-left: 0;
+}
+
+.posts li {
+  list-style-type: none;
+}
+
+.post-date {
+  display: inline-block;
+  width: 7em;
+  text-align: right;
+}
+
+$deactive:         #aeb0b0;
+$dark_font:        #272c2d;
+
+.so-footer {
+  margin-top: 6em;
+}
+
+.so-footer a {
+  color: $deactive;
+}
+
+.so-footer--sponsorheader {
+  font-size: 1em;
+}
+.so-footer--sponsorheader a {
+  color: $dark_font;
+}
+
+.so-footer--sponsorabout a {
+  color: $highlight;
+}
+
+.so-footer--sponsorlogo {
+  height: 7em;
+  width: auto;
+  margin: 0 2em 0 0;
+  display: inline-block;
+}
+
+.so-footer--prototype {
+  padding-top: 2em;
+}
+
+.so-footer--rrbone {
+  padding-top: 2em;
+}
+
+.so-footer--zweitag {
+  width: 10em;
+  height: auto;
+  padding-bottom: 1.3em;
+  margin: 0;
+}
+
