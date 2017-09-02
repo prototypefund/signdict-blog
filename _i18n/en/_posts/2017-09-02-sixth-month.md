@@ -22,6 +22,9 @@ new full time job. Sadly I didn't manage to add new features to SignDict
 because of that. Instead I talked with a lot of people about potential
 improvements to SignDict.
 
+My pr work also continues. Last month I had a nice interview in German
+with [detektor.fm](https://detektor.fm/gesellschaft/interaktives-woerterbuch-fuer-gebaerdensprache).
+
 In the next half year I want to concentrate to make SignDict better for people
 who want to use it as a teaching tool. If you are a teacher for Sign Language,
 please [contact me](https://signdict.org/contact). I would love to talk to you

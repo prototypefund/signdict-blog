@@ -25,6 +25,9 @@ könnte. Statt dessen habe ich mich mit sehr vielen Menschen über mögliche
 Verbesserungen unterhalten. Nächsten Monat werde ich hoffentlich dann schon
 wieder mehr zu berichten haben.
 
+Meine Presse-Arbeit geht auch weiter. Im letzten Monat gab es zum Beispiel
+ein schönes Interview bei [detektor.fm](https://detektor.fm/gesellschaft/interaktives-woerterbuch-fuer-gebaerdensprache).
+
 Eine der größten Baustellen für das nächste halbe Jahr wird für mich sein,
 SignDict besser für die Lehre nutzbar zu machen. Falls du Lehrer:in/Dozent:in
 für Gebärdensprache bist, dann würde ich mich gerne mit dir unterhalten. Welche
