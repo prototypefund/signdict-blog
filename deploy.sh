@@ -19,10 +19,6 @@ bundle exec jekyll build
 find . -maxdepth 1 ! -name '.' ! -name '..' ! -name '_site' ! -name '.git' ! -name '.gitignore' -exec rm -rf {} \;
 mv _site/* .
 rm -R _site/
-rm config.ru
-rm favicon.ico
-cp theme/favicon.ico .
-rm -rf theme
 
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B)"
