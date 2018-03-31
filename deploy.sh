@@ -5,6 +5,8 @@ set -e
 
 echo "Started deploying"
 
+git stash
+
 # Checkout gh-pages branch.
 if [ `git branch | grep gh-pages` ]
 then
@@ -27,6 +29,8 @@ git push origin gh-pages --force
 # Move back to previous branch.
 git checkout -
 git submodule update
+
+git stash pop
 
 echo "Deployed Successfully!"
 
