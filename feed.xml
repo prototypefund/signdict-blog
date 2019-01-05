@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://blog.signdict.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.signdict.org/" rel="alternate" type="text/html" hreflang="de" /><updated>2019-01-05T20:23:06+01:00</updated><id>https://blog.signdict.org/</id><title type="html">SignDict</title><subtitle>This is the blog of SignDict. SignDict is a crowd sourced sign language dictionary.
+</subtitle><entry><title type="html">API und Dokumentation</title><link href="https://blog.signdict.org/2018/03/31/api-and-docs.html" rel="alternate" type="text/html" title="API und Dokumentation" /><published>2018-03-31T09:00:00+02:00</published><updated>2018-03-31T09:00:00+02:00</updated><id>https://blog.signdict.org/2018/03/31/api-and-docs</id><content type="html" xml:base="https://blog.signdict.org/2018/03/31/api-and-docs.html">&lt;p&gt;Wie schon im &lt;a href=&quot;/2017/11/05/eighth-month.html&quot;&gt;letzten Update&lt;/a&gt;
+verkündet, habe ich eine kurze Baby-Pause eingelegt. Aber jetzt
+geht es endlich weiter mit Neuigkeiten rund um SignDict.&lt;/p&gt;
+
+&lt;h2 id=&quot;api&quot;&gt;API&lt;/h2&gt;
+
+&lt;p&gt;Es gibt jetzt eine API. Das bedeutet, andere Programmierer:innen können
+nun die Videos abfragen und eigene kleine Ideen verwirklichen.
+Dies ist meines Wissens nach das erste Gebärden-Lexikon, das diese
+Funktion enthält. Danke an &lt;a href=&quot;https://github.com/jann&quot;&gt;Jan&lt;/a&gt; dafür. Mehr dazu in unserem &lt;a href=&quot;https://github.com/signdict/website/wiki/API&quot;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;das-dokumentations-projekt&quot;&gt;Das Dokumentations-Projekt&lt;/h2&gt;
+
+&lt;p&gt;Jetzt nachdem die Basis-Funktionalität von SignDict vorhanden ist, gilt es, die
+nächste größere Baustelle anzugehen: Menschen die Gebärdensprache näher bringen.
+Dabei soll das ganze nicht einen Sprach-Kurs ersetzen, aber einen guten Überblick
+über die Sprache geben. Hoffentlich wird das ganze irgendwann einen guten Einstieg
+in die Welt der Gebärden sein.&lt;/p&gt;
+
+&lt;p&gt;Unter &lt;a href=&quot;http://docs.signdict.org&quot;&gt;docs.signdict.org&lt;/a&gt; findet Ihr
+nun die erste kleine Version hiervon. Es gibt noch viel zu tun.
+Vor allem Texte zu schreiben. Wenn du Lust hast, an diesem
+Projekt mit zu arbeiten, dann
+&lt;a href=&quot;https://signdict.org/contact&quot;&gt;melde&lt;/a&gt; dich bitte bei mir. Ich
+suche noch dringend Menschen, die genug Wissen rund um die
+Gebärdensprache haben und mir hier helfen wollen.&lt;/p&gt;</content><author><name></name></author><summary type="html">Wie schon im letzten Update verkündet, habe ich eine kurze Baby-Pause eingelegt. Aber jetzt geht es endlich weiter mit Neuigkeiten rund um SignDict.</summary></entry><entry><title type="html">Achter Monat</title><link href="https://blog.signdict.org/2017/11/05/eighth-month.html" rel="alternate" type="text/html" title="Achter Monat" /><published>2017-11-05T08:00:00+01:00</published><updated>2017-11-05T08:00:00+01:00</updated><id>https://blog.signdict.org/2017/11/05/eighth-month</id><content type="html" xml:base="https://blog.signdict.org/2017/11/05/eighth-month.html">&lt;p&gt;Diesen Monat habe ich langsam aufgehört an SignDict zu arbeiten. Ich habe in
+den nächsten Monaten privat sehr viele andere Dinge um die Ohren. Aber ich
+werde die Arbeit wieder aufnehmen, sobald sich alles etwas beruhigt hat.
+Vermutlich gibt es im Frühling dann das nächste Update von mir. Bis dahin werde
+ich weiter fleißig weitere Listen anlegen. Zum Beispiel
+&lt;a href=&quot;https://signdict.org/list/11-zahlen&quot;&gt;Zahlen&lt;/a&gt; und
+&lt;a href=&quot;https://signdict.org/list/5-l%C3%A4nder&quot;&gt;Länder&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eine sehr erfreuliche Nachricht gibt es bei Apple. Im letzten Update
+von MacOS und iOS wurden &lt;a href=&quot;https://blog.emojipedia.org/ios-11-1-emoji-changelog/&quot;&gt;240 neue Emojis&lt;/a&gt;
+hinzugefügt. Eines davon ist das “&lt;a href=&quot;https://de.wikipedia.org/wiki/ILY-Zeichen&quot;&gt;I love you&lt;/a&gt;” Zeichen der Gebärden-Community
+🤟.&lt;/p&gt;</content><author><name></name></author><summary type="html">Diesen Monat habe ich langsam aufgehört an SignDict zu arbeiten. Ich habe in den nächsten Monaten privat sehr viele andere Dinge um die Ohren. Aber ich werde die Arbeit wieder aufnehmen, sobald sich alles etwas beruhigt hat. Vermutlich gibt es im Frühling dann das nächste Update von mir. Bis dahin werde ich weiter fleißig weitere Listen anlegen. Zum Beispiel Zahlen und Länder.</summary></entry><entry><title type="html">Siebter Monat</title><link href="https://blog.signdict.org/2017/10/01/seventh-month.html" rel="alternate" type="text/html" title="Siebter Monat" /><published>2017-10-01T09:00:00+02:00</published><updated>2017-10-01T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/10/01/seventh-month</id><content type="html" xml:base="https://blog.signdict.org/2017/10/01/seventh-month.html">&lt;p&gt;Diesen Monat gab es endlich wieder ein paar neue Funktionen auf SignDict. Fangen
+wir gleich mal mit dem wichtigsten an. Dank &lt;a href=&quot;https://github.com/laurens&quot;&gt;Laurens&lt;/a&gt;
+gibt es nun endlich auch die Möglichkeit, mit Hilfe des Firefox neue Wörter
+hinzuzufügen. Dazu muss allerdings der aktuellste Firefox mit der Versionsnummer
+56 installiert sein. Ältere Versionen haben leider einen Fehler im Verarbeiten
+von Videodaten. Probiert es gerne aus und fügt &lt;a href=&quot;https://signdict.org/entry/new&quot;&gt;ein neues Wort hinzu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Die zweite große Funktion sind Listen. Willst du &lt;a href=&quot;https://signdict.org/list/1-alle-wochentage&quot;&gt;alle Wochentage&lt;/a&gt; lernen?
+Oder &lt;a href=&quot;https://signdict.org/list/2-alle-monate&quot;&gt;alle Monate&lt;/a&gt;? Jetzt findest du
+ganz einfach alle in einer Liste. Wenn du Ideen für weitere Listen hast, melde
+dich am besten im &lt;a href=&quot;https://community.signdict.org/&quot;&gt;Forum&lt;/a&gt; und schreibe dort,
+welche Wörter zu einer Liste zusammen geführt werden sollten. Bei über 4.000 Gebärden
+kann ich diese Arbeit nicht alleine leisten und bin für jede Hilfe dankbar.
+Für die nahe Zukunft ist geplant, das jeder: eigene Listen erstellen und mit
+anderen teilen kann. Zum Beispiel um Unterrichtsbegleitend die aktuell
+gelernten Vokabeln vertiefen zu können.&lt;/p&gt;
+
+&lt;p&gt;Bist du Softwareentwickler und kannst eventuell Javascript oder Elixir? Diesen
+Monat kannst du beim &lt;a href=&quot;https://hacktoberfest.digitalocean.com/&quot;&gt;Hacktoberfest&lt;/a&gt; ein
+T-Shirt bekommen wenn du auf GitHub bei OpenSource Projekten mitarbeitest. Zum
+Beispiel auch bei SignDict. Schau einfach ob eines der &lt;a href=&quot;https://github.com/signdict/website/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest&quot;&gt;Tickets&lt;/a&gt;
+dir zusagen. Oder hast du eine andere tolle Idee? Dann lege ein neues Ticket an
+und wir können dann alles weitere besprechen!&lt;/p&gt;
+
+&lt;p&gt;Ich such übrigens gerade noch Kinder von Gehörlosen, die in der Berliner IT-Szene
+unterwegs sind. Würde mich gerne mit euch über eure Erfahrungen austauschen. Schreibe
+&lt;a href=&quot;https://signdict.org/contact&quot;&gt;mir einfach&lt;/a&gt;. Danke.&lt;/p&gt;</content><author><name></name></author><summary type="html">Diesen Monat gab es endlich wieder ein paar neue Funktionen auf SignDict. Fangen wir gleich mal mit dem wichtigsten an. Dank Laurens gibt es nun endlich auch die Möglichkeit, mit Hilfe des Firefox neue Wörter hinzuzufügen. Dazu muss allerdings der aktuellste Firefox mit der Versionsnummer 56 installiert sein. Ältere Versionen haben leider einen Fehler im Verarbeiten von Videodaten. Probiert es gerne aus und fügt ein neues Wort hinzu.</summary></entry><entry><title type="html">Sechster Monat</title><link href="https://blog.signdict.org/2017/09/02/sixth-month.html" rel="alternate" type="text/html" title="Sechster Monat" /><published>2017-09-02T09:00:00+02:00</published><updated>2017-09-02T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/09/02/sixth-month</id><content type="html" xml:base="https://blog.signdict.org/2017/09/02/sixth-month.html">&lt;p&gt;Diese Woche waren die sechs Prototyp-Monate nun leider endgültig zu Ende.&lt;/p&gt;
+
+&lt;p&gt;Am Donnerstag gab es eine kleine Abschlussveranstaltung auf der alle Projekte
+die Arbeit der letzten Monate präsentieren konnten. Es war gar nicht so leicht,
+die 6 Monate in eine 5 minütige Präsentation zu packen, aber ich denke es hat
+recht gut geklappt.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bitboxer&quot;&gt;@bitboxer&lt;/a&gt; is presenting his awesome tool &lt;a href=&quot;https://twitter.com/signdict&quot;&gt;@signdict&lt;/a&gt; A sign language wiki 0x1f44c&lt;a href=&quot;https://twitter.com/hashtag/prototypedemos?src=hash&quot;&gt;#prototypedemos&lt;/a&gt; &lt;a href=&quot;https://t.co/nFmz25ftWE&quot;&gt;https://t.co/nFmz25ftWE&lt;/a&gt; &lt;a href=&quot;https://t.co/DsLwn8hZze&quot;&gt;pic.twitter.com/DsLwn8hZze&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julia Kloiber (@j_kloiber) &lt;a href=&quot;https://twitter.com/j_kloiber/status/903239904527867905&quot;&gt;August 31, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Das ganze war eine sehr schöne Gelegenheit sich mit allen Projekten der ersten
+und der zweiten Runde des &lt;a href=&quot;https://prototypefund.de&quot;&gt;Prototype Funds&lt;/a&gt;
+auszutauschen. Momentan ist die Bewerbungsphase für die 3. Runde offen.
+Wenn du eine Idee für ein OpenSource-Projekt hast und 47.500€ für 6 Monate
+Arbeit an deinem Projekt bekommen willst, nur zu!&lt;/p&gt;
+
+&lt;p&gt;Der letzte Monat war, wie ja schon angekündigt, mein erster Monat im neuen Job.
+Deswegen gibt es leider keine neuen Funktionen über die ich nun berichten
+könnte. Statt dessen habe ich mich mit sehr vielen Menschen über mögliche
+Verbesserungen unterhalten. Nächsten Monat werde ich hoffentlich dann schon
+wieder mehr zu berichten haben.&lt;/p&gt;
+
+&lt;p&gt;Meine Presse-Arbeit geht auch weiter. Im letzten Monat gab es zum Beispiel
+ein schönes Interview bei &lt;a href=&quot;https://detektor.fm/gesellschaft/interaktives-woerterbuch-fuer-gebaerdensprache&quot;&gt;detektor.fm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eine der größten Baustellen für das nächste halbe Jahr wird für mich sein,
+SignDict besser für die Lehre nutzbar zu machen. Falls du Lehrer:in/Dozent:in
+für Gebärdensprache bist, dann würde ich mich gerne mit dir unterhalten. Welche
+Funktionen braucht SignDict, damit es im Unterricht oder als Begleitung des
+Unterrichts genutzt werden kann? &lt;a href=&quot;https://signdict.org/contact&quot;&gt;Schreibe mir&lt;/a&gt;
+einfach!&lt;/p&gt;</content><author><name></name></author><summary type="html">Diese Woche waren die sechs Prototyp-Monate nun leider endgültig zu Ende.</summary></entry><entry><title type="html">Fünfter Monat</title><link href="https://blog.signdict.org/2017/08/05/fifth-month.html" rel="alternate" type="text/html" title="Fünfter Monat" /><published>2017-08-05T09:00:00+02:00</published><updated>2017-08-05T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/08/05/fifth-month</id><content type="html" xml:base="https://blog.signdict.org/2017/08/05/fifth-month.html">&lt;p&gt;Der wichtigste Punkt im letzten Monat war
+das Entfernen des Wortes “Beta”. Die Seite
+läuft nun stabil und hat alle Funktionen die
+ich mir für eine 1.0 Version vorgestellt habe.
+Die Aufnahme funktioniert und die Seite bekommt
+langsam aber sicher immer mehr Besucher.&lt;/p&gt;
+
+&lt;p&gt;Eines der neuen Features in diesem Monat ist der
+neue &lt;a href=&quot;https://signdict.org/entry/2305-langsam&quot;&gt;Videoplayer&lt;/a&gt;. Dieser erlaubt es nun auch,
+die Geschwindigkeit zu verlangsamen, um die
+Bewegungen besser sehen zu können. Abgesehen
+vom Programmieren habe ich mit vielen Menschen geredet und
+versucht, die Seite bekannter zu machen. Es gab
+einen Artikel auf &lt;a href=&quot;https://www.hoergeschaedigte.com/index.php/2017/07/18/gebaerdensprache-was-ist-signdict/&quot;&gt;hoergeschaedigt.de&lt;/a&gt;
+und viele Tweets und Facebook Posts, zum Beispiel von
+&lt;a href=&quot;https://twitter.com/leidmedien/status/892664243098722304&quot;&gt;Leidmedien&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Für alle, die gerne über SignDict oder Gebärdensprache
+reden wollen habe ich einen neue Community Seite erstellt
+die Ihr hier finden könnt: &lt;a href=&quot;https://community.signdict.org/&quot;&gt;community.signdict.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wenn dir SignDict gefällt, wäre es schön, wenn du
+mir dabei hilfst, die Seite bekannter zu machen. Twittere
+darüber, schreibe Facebook Posts oder Blogposts. Ich
+freue mich über alles.&lt;/p&gt;
+
+&lt;p&gt;Der letzte Monat war der leider letzte Monat, in dem
+ich Vollzeit an SignDict entwickeln konnte. Ab jetzt
+werde ich nur noch in meiner Freizeit an dem Projekt
+arbeiten können. Zum 1. August habe ich einen
+neuen Job angefangen. Aber keine Angst, ich habe
+noch jede Menge weiterer Todos die ich in den
+nächsten Monaten abarbeiten werden.&lt;/p&gt;</content><author><name></name></author><summary type="html">Der wichtigste Punkt im letzten Monat war das Entfernen des Wortes “Beta”. Die Seite läuft nun stabil und hat alle Funktionen die ich mir für eine 1.0 Version vorgestellt habe. Die Aufnahme funktioniert und die Seite bekommt langsam aber sicher immer mehr Besucher.</summary></entry><entry><title type="html">Vierter Monat</title><link href="https://blog.signdict.org/2017/07/03/fourth-month.html" rel="alternate" type="text/html" title="Vierter Monat" /><published>2017-07-03T09:00:00+02:00</published><updated>2017-07-03T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/07/03/fourth-month</id><content type="html" xml:base="https://blog.signdict.org/2017/07/03/fourth-month.html">&lt;p&gt;In den letzten vier Wochen habe ich fleißig weiter
+an SignDict gearbeitet. Der Fokus lag dabei auf dem
+Hinzufügen von fehlenden Wörtern mit der eigenen
+Webcam. Diese Funktion ist nun fertig. Wenn Ihr
+Lust habt, zu den ersten Beta-Testern zu gehören,
+die neue Gebärden hinzufügen können, dann meldet
+Euch doch bitte &lt;a href=&quot;https://beta.signdict.org/contact&quot;&gt;bei mir&lt;/a&gt;.
+Ihr braucht dazu nur eine Webcam und den Chrome-Browser. Leider
+gibt es im Firefox gerade einen Bug, der in Version 55 behoben
+sein wird.&lt;/p&gt;
+
+&lt;p&gt;Wenn alles gut funktioniert werde ich dies nächste Woche für
+alle freizuschalten. Ab dann kann dann jede:r weitere
+Gebärden hinzufügen. Ich bin schon gespannt, wie viele von euch
+mitmachen werden.&lt;/p&gt;
+
+&lt;p&gt;Die nächsten vier Wochen werden die letzten Wochen sein, in denen
+ich Vollzeit an SignDict entwickle. Der Schwerpunkt wird hierbei
+die Aufnahme-Funktion sein und ein paar kleinere Komfort-Funktionen.
+Danach werde ich in meiner Freizeit an SignDict weiter entwickeln und
+wieder als Angestellter Entwickler arbeiten.&lt;/p&gt;
+
+&lt;p&gt;Beinahe hätte ich eine weitere Kleinigkeit vergessen, die letzten
+Monat hinzugekommen ist:
+die &lt;a href=&quot;https://beta.signdict.org/entry&quot;&gt;alphabetische Liste&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Viel Spaß beim Stöbern!&lt;/p&gt;</content><author><name></name></author><summary type="html">In den letzten vier Wochen habe ich fleißig weiter an SignDict gearbeitet. Der Fokus lag dabei auf dem Hinzufügen von fehlenden Wörtern mit der eigenen Webcam. Diese Funktion ist nun fertig. Wenn Ihr Lust habt, zu den ersten Beta-Testern zu gehören, die neue Gebärden hinzufügen können, dann meldet Euch doch bitte bei mir. Ihr braucht dazu nur eine Webcam und den Chrome-Browser. Leider gibt es im Firefox gerade einen Bug, der in Version 55 behoben sein wird.</summary></entry><entry><title type="html">Dritter Monat</title><link href="https://blog.signdict.org/2017/06/01/third-month.html" rel="alternate" type="text/html" title="Dritter Monat" /><published>2017-06-01T09:00:00+02:00</published><updated>2017-06-01T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/06/01/third-month</id><content type="html" xml:base="https://blog.signdict.org/2017/06/01/third-month.html">&lt;p&gt;Und schon ist der dritte Monat vorbei.&lt;/p&gt;
+
+&lt;p&gt;Voller stolz kann Ich euch die Beta der
+Seite vorstellen. Auf &lt;a href=&quot;https://beta.signdict.org&quot;&gt;beta.signdict.org&lt;/a&gt;
+findet Ihr nun über 4.000 Gebärden. Falls Ihr noch kaum
+Berührung mit der deutschen Gebärdensprache hattet, werdet
+Ihr euch vielleicht wundern, warum es bei einigen Wörtern
+mehrere unterschiedliche Gebärden gibt. Dies sind unterschiedliche
+Dialekte. Bei diesen Varianten kann jeder die für sich bekannte
+Gebärde “liken”. Wenn genug Menschen dies machen, kann ich die
+meist gebräuchlichen Varianten der Wörter als erstes anzeigen.&lt;/p&gt;
+
+&lt;p&gt;Bitte probiert die Seite aus und &lt;a href=&quot;http://beta.signdict.org/contact&quot;&gt;schreibt mir&lt;/a&gt;, wie ihr sie
+findet.&lt;/p&gt;
+
+&lt;p&gt;Was Ihr allerdings noch nicht in der Beta finden werdet, ist die
+Webcam-Funktion. Mit dieser habe ich vor zwei Wochen begonnen und
+kann euch hoffentlich im nächsten Monat mehr dazu sagen.&lt;/p&gt;</content><author><name></name></author><summary type="html">Und schon ist der dritte Monat vorbei.</summary></entry><entry><title type="html">Zweiter Monat</title><link href="https://blog.signdict.org/2017/05/02/second-month.html" rel="alternate" type="text/html" title="Zweiter Monat" /><published>2017-05-02T09:00:00+02:00</published><updated>2017-05-02T09:00:00+02:00</updated><id>https://blog.signdict.org/2017/05/02/second-month</id><content type="html" xml:base="https://blog.signdict.org/2017/05/02/second-month.html">&lt;p&gt;Der zweite Monat ist nun vorbei und ich bin sehr gut
+voran gekommen. Das Design ist eingebaut und ich kann
+Videos abspielen, voten und suchen. Es fehlt nicht mehr
+viel um eine erste Beta online stellen zu können.&lt;/p&gt;
+
+&lt;p&gt;Eine der wichtigsten Punkte, um die ich mich diese Woche
+kümmern werde, ist das hochladen von knapp 1.000 Gebärden.
+Dann sollte die Beta schon genügend Videos enthalten. Wie im
+letzten Blogpost beschrieben werde ich mich danach dann
+um das eigentliche Kern-Feature der Seite kümmern: dem
+aufnehmen neuer Gebärden mit Hilfe der Webcam.&lt;/p&gt;
+
+&lt;p&gt;Drückt mir die Daumen, das ich weiter so gut voran komme.&lt;/p&gt;
+
+&lt;p&gt;Wenn Ihr Fragen zu der Seite habt oder wenn Ihr mithelfen
+wollt, meldet euch gerne im &lt;a href=&quot;https://signdict-slack-invite.herokuapp.com/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Der zweite Monat ist nun vorbei und ich bin sehr gut voran gekommen. Das Design ist eingebaut und ich kann Videos abspielen, voten und suchen. Es fehlt nicht mehr viel um eine erste Beta online stellen zu können.</summary></entry><entry><title type="html">Erster Monat</title><link href="https://blog.signdict.org/2017/03/31/first-month.html" rel="alternate" type="text/html" title="Erster Monat" /><published>2017-03-31T21:00:00+02:00</published><updated>2017-03-31T21:00:00+02:00</updated><id>https://blog.signdict.org/2017/03/31/first-month</id><content type="html" xml:base="https://blog.signdict.org/2017/03/31/first-month.html">&lt;p&gt;Der erste Monat ist nun vorbei und ich bin sehr gut voran gekommen. Das
+Datenmodel ist fertig modelliert, die Nutzer-Registrierung
+programmiert, die Administrations-Oberfläche gebaut und der Server
+eingerichtet. Dieser Server wurde mir dankenswerterweise von &lt;a href=&quot;https://rrbone.net&quot;&gt;rrbone.net&lt;/a&gt;
+zur Verfügung gestellt 😘.&lt;/p&gt;
+
+&lt;p&gt;Eine der größten anderen Todos ist nun auch erledigt. &lt;a href=&quot;https://zweitag.net&quot;&gt;Zweitag&lt;/a&gt; hat
+zusammen mit mir ein Design und das Logo erarbeitet. Ich habe selten
+eine so angenehme Zusammenarbeit bei einem Design-Prozess erlebt. Hier
+eine kleine Vorschau, wie die Seite aussehen könnte:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/first-month.png&quot; alt=&quot;screenshot of the new design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neben rrbone und zweitag haben mir auch noch Tobias und Jan tatkräftig
+unter die Arme gegriffen bei der Programmierung. Ich bin immer noch
+sprachlos über die ganze Hilfsbereitschaft, die mir entgegen gebracht
+wurde 🎉. Ein dickes Dankeschön von mir dafür an euch!&lt;/p&gt;
+
+&lt;p&gt;Als nächstes steht nun der Einbau des Designs an. Ich hoffe bis Ende
+nächsten Monats eine Seite online zu haben, auf der schon Videos
+angesehen werden können. Wenn alles gut läuft, kann ich mich dann ab
+Anfang Mai dem Aufnehmen und Hochladen der Videos widmen.&lt;/p&gt;</content><author><name></name></author><summary type="html">Der erste Monat ist nun vorbei und ich bin sehr gut voran gekommen. Das Datenmodel ist fertig modelliert, die Nutzer-Registrierung programmiert, die Administrations-Oberfläche gebaut und der Server eingerichtet. Dieser Server wurde mir dankenswerterweise von rrbone.net zur Verfügung gestellt 😘.</summary></entry><entry><title type="html">Kick-Off Prototype Fund</title><link href="https://blog.signdict.org/2017/03/02/kickoff.html" rel="alternate" type="text/html" title="Kick-Off Prototype Fund" /><published>2017-03-02T12:30:50+01:00</published><updated>2017-03-02T12:30:50+01:00</updated><id>https://blog.signdict.org/2017/03/02/kickoff</id><content type="html" xml:base="https://blog.signdict.org/2017/03/02/kickoff.html">&lt;p&gt;Gestern war es endlich soweit: (fast) alle Teilnehmer:innen des &lt;a href=&quot;http://prototypefund.de&quot;&gt;Prototype Funds&lt;/a&gt;
+haben sich auf dem Kick-Off Workshop getroffen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kick-off-prototype-fund.jpg&quot; alt=&quot;Bild der Teilnehmer des Kick-Off Workshops des Prototype Funds&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Heute ist nun der erste Arbeitstag und ich kann es kaum abwarten, euch nun
+monatlich zu berichten, wie der aktuelle Stand ist. Wenn Ihr noch genauer auf dem Laufenden
+bleiben wollt, könnt Ihr ja gerne auf Github die &lt;a href=&quot;https://github.com/signdict/website/&quot;&gt;Entwicklung&lt;/a&gt;
+beobachten oder &lt;a href=&quot;https://twitter.com/signdict&quot;&gt;SignDict auf Twitter&lt;/a&gt; folgen.&lt;/p&gt;</content><author><name></name></author><summary type="html">Gestern war es endlich soweit: (fast) alle Teilnehmer:innen des Prototype Funds haben sich auf dem Kick-Off Workshop getroffen.</summary></entry></feed>

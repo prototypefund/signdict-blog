@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://blog.signdict.org/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.signdict.org/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-01-05T20:23:07+01:00</updated><id>https://blog.signdict.org/en/</id><title type="html">SignDict</title><subtitle>This is the blog of SignDict. SignDict is a crowd sourced sign language dictionary.
+</subtitle><entry><title type="html">API and documentation</title><link href="https://blog.signdict.org/en/2018/03/31/api-and-docs.html" rel="alternate" type="text/html" title="API and documentation" /><published>2018-03-31T09:00:00+02:00</published><updated>2018-03-31T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2018/03/31/api-and-docs</id><content type="html" xml:base="https://blog.signdict.org/en/2018/03/31/api-and-docs.html">&lt;p&gt;As mentioned in &lt;a href=&quot;/en/2017/11/05/eighth-month.html&quot;&gt;the last update&lt;/a&gt;
+I did a small baby break. Now I am back with news about SignDict:&lt;/p&gt;
+
+&lt;h2 id=&quot;api&quot;&gt;API&lt;/h2&gt;
+
+&lt;p&gt;We now have an API. This means software developers can now
+query for videos and use them in their own little projects.
+To my knowledge this is a first. No other sign dictionary offers
+this. Thanks to &lt;a href=&quot;https://github.com/jann&quot;&gt;Jan&lt;/a&gt; for his hard work on it. 
+More details can be found in our &lt;a href=&quot;https://github.com/signdict/website/wiki/API&quot;&gt;wiki&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-documentation-project&quot;&gt;The documentation project&lt;/h2&gt;
+
+&lt;p&gt;After we finished the basic functionality of SignDict, we will now focus on the
+next big topic: educate people about sign language. The aim is not to replace
+a language course, but to give a good overview about the language. Hopefully
+this will be a good starting point to learn sign language in the near future.
+At first we will focus on german sign language and the documentation will be
+in german, too. If this is successful, we can try to offer this in other
+languages.&lt;/p&gt;
+
+&lt;p&gt;You can now find a first version of it at &lt;a href=&quot;http://docs.signdict.org&quot;&gt;docs.signdict.org&lt;/a&gt;.
+There is a lot to be done. Most importantly: adding more pages. If you are
+fluent in German and want to help me out, please &lt;a href=&quot;https://signdict.org/contact&quot;&gt;contact&lt;/a&gt;
+me. I am searching for people with enough knowledge in german sign that are
+interested in creating the best introduction to the beautiful world of sign
+language.&lt;/p&gt;</content><author><name></name></author><summary type="html">As mentioned in the last update I did a small baby break. Now I am back with news about SignDict:</summary></entry><entry><title type="html">Eighth month</title><link href="https://blog.signdict.org/en/2017/11/05/eighth-month.html" rel="alternate" type="text/html" title="Eighth month" /><published>2017-11-05T08:00:00+01:00</published><updated>2017-11-05T08:00:00+01:00</updated><id>https://blog.signdict.org/en/2017/11/05/eighth-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/11/05/eighth-month.html">&lt;p&gt;This month I startet to slow down the development on
+SignDict. I will have other important private things
+in the next couple of months. After that I will start
+posting updates again. The next one will hopefully
+be in spring. Till then I will continue to add
+new lists. For example
+&lt;a href=&quot;https://signdict.org/list/11-zahlen&quot;&gt;numbers&lt;/a&gt; and
+&lt;a href=&quot;https://signdict.org/list/5-l%C3%A4nder&quot;&gt;countries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you haven’t heard already: Apple released a new
+Version of MacOS and iOS that includes &lt;a href=&quot;https://blog.emojipedia.org/ios-11-1-emoji-changelog/&quot;&gt;240 new Emojis&lt;/a&gt;.
+One of them is the “&lt;a href=&quot;https://en.wikipedia.org/wiki/ILY_sign&quot;&gt;I love you&lt;/a&gt;” sign 🤟.&lt;/p&gt;</content><author><name></name></author><summary type="html">This month I startet to slow down the development on SignDict. I will have other important private things in the next couple of months. After that I will start posting updates again. The next one will hopefully be in spring. Till then I will continue to add new lists. For example numbers and countries.</summary></entry><entry><title type="html">Seventh month</title><link href="https://blog.signdict.org/en/2017/10/01/seventh-month.html" rel="alternate" type="text/html" title="Seventh month" /><published>2017-10-01T09:00:00+02:00</published><updated>2017-10-01T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/10/01/seventh-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/10/01/seventh-month.html">&lt;p&gt;This month we finally added new features to SignDict. Let’s start
+with the most important one. Thanks to &lt;a href=&quot;https://github.com/laurens&quot;&gt;Laurens&lt;/a&gt;
+it is now possible to add new signs using Firefox. You need to have the lastest
+Firefox Version 56 installed. Older versions have a bug in processing videodata.
+Please try it out and &lt;a href=&quot;https://signdict.org/entry/new&quot;&gt;add a new word&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second big feature are lists. Do you want to learn &lt;a href=&quot;https://signdict.org/list/1-alle-wochentage&quot;&gt;all german
+weekdays&lt;/a&gt;?  Or &lt;a href=&quot;https://signdict.org/list/2-alle-monate&quot;&gt;all
+months&lt;/a&gt;? Now you can find them all in
+a nice list. If you have ideas for more lists, please post them in the
+&lt;a href=&quot;https://community.signdict.org/&quot;&gt;forum&lt;/a&gt;. With over 4.000 signs I can’t do that
+work on my own. For the near future it is planned that everyone can create
+their own lists and share them with others. For example to have a list of new
+vocabulary learned in a sign language course.&lt;/p&gt;
+
+&lt;p&gt;Are you a software developer and able to write Javascript or Elixir? This
+month you can get a T-Shirt working on OpenSource during the
+&lt;a href=&quot;https://hacktoberfest.digitalocean.com/&quot;&gt;Hacktoberfest&lt;/a&gt;. If you want to
+work on SignDict, feel free to browse through the 
+&lt;a href=&quot;https://github.com/signdict/website/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest&quot;&gt;tickets&lt;/a&gt;.
+If you have another great idea feel free to create a new ticket to start
+a discussion.&lt;/p&gt;
+
+&lt;p&gt;I am currently searching for CODAs (children of deaf adults) working in the
+Belrin tech scene. I would love to exchange experiences and get more connected.
+Please &lt;a href=&quot;https://signdict.org/contact&quot;&gt;contact me&lt;/a&gt;. Thanks.&lt;/p&gt;</content><author><name></name></author><summary type="html">This month we finally added new features to SignDict. Let’s start with the most important one. Thanks to Laurens it is now possible to add new signs using Firefox. You need to have the lastest Firefox Version 56 installed. Older versions have a bug in processing videodata. Please try it out and add a new word.</summary></entry><entry><title type="html">Sixth month</title><link href="https://blog.signdict.org/en/2017/09/02/sixth-month.html" rel="alternate" type="text/html" title="Sixth month" /><published>2017-09-02T09:00:00+02:00</published><updated>2017-09-02T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/09/02/sixth-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/09/02/sixth-month.html">&lt;p&gt;This week the six month of working with the Prototype Fund finally ended.&lt;/p&gt;
+
+&lt;p&gt;On Thursday every project could present their work of the last months during
+the closing event. It wasn’t that easy to pack everything that happend
+in the last 6 month into a 5 minute presentation, but I think it worked.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bitboxer&quot;&gt;@bitboxer&lt;/a&gt; is presenting his awesome tool &lt;a href=&quot;https://twitter.com/signdict&quot;&gt;@signdict&lt;/a&gt; A sign language wiki 0x1f44c&lt;a href=&quot;https://twitter.com/hashtag/prototypedemos?src=hash&quot;&gt;#prototypedemos&lt;/a&gt; &lt;a href=&quot;https://t.co/nFmz25ftWE&quot;&gt;https://t.co/nFmz25ftWE&lt;/a&gt; &lt;a href=&quot;https://t.co/DsLwn8hZze&quot;&gt;pic.twitter.com/DsLwn8hZze&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julia Kloiber (@j_kloiber) &lt;a href=&quot;https://twitter.com/j_kloiber/status/903239904527867905&quot;&gt;August 31, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;This was also a great opportunity to meet everyone from the first and second
+round of the &lt;a href=&quot;https://prototypefund.de&quot;&gt;Prototype Fund&lt;/a&gt;. Currently the
+registration for the third round is open. If you have an Idea for an OpenSource
+project and want to earn 47.500€ for 6 month of work, apply now!&lt;/p&gt;
+
+&lt;p&gt;As already mentioned in the last post this month was also the first month of my
+new full time job. Sadly I didn’t manage to add new features to SignDict
+because of that. Instead I talked with a lot of people about potential
+improvements to SignDict.&lt;/p&gt;
+
+&lt;p&gt;My pr work also continues. Last month I had a nice interview in German
+with &lt;a href=&quot;https://detektor.fm/gesellschaft/interaktives-woerterbuch-fuer-gebaerdensprache&quot;&gt;detektor.fm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the next half year I want to concentrate to make SignDict better for people
+who want to use it as a teaching tool. If you are a teacher for Sign Language,
+please &lt;a href=&quot;https://signdict.org/contact&quot;&gt;contact me&lt;/a&gt;. I would love to talk to you
+about your needs.&lt;/p&gt;</content><author><name></name></author><summary type="html">This week the six month of working with the Prototype Fund finally ended.</summary></entry><entry><title type="html">Fifth month</title><link href="https://blog.signdict.org/en/2017/08/05/fifth-month.html" rel="alternate" type="text/html" title="Fifth month" /><published>2017-08-05T09:00:00+02:00</published><updated>2017-08-05T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/08/05/fifth-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/08/05/fifth-month.html">&lt;p&gt;The most important todo in the last month was
+the removal of the word “beta”. The page is now
+stable enough and has all the features I wanted
+in the 1.0 version. The recording works and SignDict
+is slowly getting more visitors.&lt;/p&gt;
+
+&lt;p&gt;One of the new features I added last month was the
+new &lt;a href=&quot;https://signdict.org/entry/2305-langsam&quot;&gt;video player&lt;/a&gt;. With it you can now reduce the playback
+speed to better understand the hand movements. Aside from all
+the development I talked to a lot of people to promote
+the site. The reaction was an article on &lt;a href=&quot;https://www.hoergeschaedigte.com/index.php/2017/07/18/gebaerdensprache-was-ist-signdict/&quot;&gt;hoergeschaedigt.de&lt;/a&gt;
+and lots of tweets and facebook posts. For example by
+&lt;a href=&quot;https://twitter.com/leidmedien/status/892664243098722304&quot;&gt;Leidmedien&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For anyone who wants to discuss SignDict or Sign Language I
+created a new community page that can be found under &lt;a href=&quot;https://community.signdict.org/&quot;&gt;community.signdict.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It would be awesome if you helped me by sharing the site on Twitter
+and Facebook, too. I would be really happy about every tweet and
+post.&lt;/p&gt;
+
+&lt;p&gt;The last month was sadly the last one I could work
+full time on SignDict. From now on forward I will work
+on it in my spare time. I started a new Job on the 1st
+of august. But don’t worry. There are a lot of items
+on my todo list that I will work on in the next couple
+of months.&lt;/p&gt;</content><author><name></name></author><summary type="html">The most important todo in the last month was the removal of the word “beta”. The page is now stable enough and has all the features I wanted in the 1.0 version. The recording works and SignDict is slowly getting more visitors.</summary></entry><entry><title type="html">Fourth month</title><link href="https://blog.signdict.org/en/2017/07/03/fourth-month.html" rel="alternate" type="text/html" title="Fourth month" /><published>2017-07-03T09:00:00+02:00</published><updated>2017-07-03T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/07/03/fourth-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/07/03/fourth-month.html">&lt;p&gt;The last four weeks I was busy working on the webcam recording
+functionality. It is ready now and if you want to beta test it,
+please send &lt;a href=&quot;https://beta.signdict.org/contact&quot;&gt;me a message&lt;/a&gt;.
+The only thing you need is a webcam and the Chrome browser. Sadly
+there is a bug in Firefox that will be fixed in version 55.&lt;/p&gt;
+
+&lt;p&gt;If everything works fine I will activate this for everyone. From
+that point on everyone will be able to add new signs to the
+dictionary. I am really curious how many of you will participate.&lt;/p&gt;
+
+&lt;p&gt;The next four weeks will be the last I will work full time on SignDict.
+The main focus will be polishing the recording functionality and working
+on smaller functions that will increase the usage experience of the page.
+After that I will work on SignDict in my spare time.&lt;/p&gt;
+
+&lt;p&gt;I nearly forgot a small thing that was added last month:
+the &lt;a href=&quot;https://beta.signdict.org/entry&quot;&gt;alphabetical list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Have fun exploring the list!&lt;/p&gt;</content><author><name></name></author><summary type="html">The last four weeks I was busy working on the webcam recording functionality. It is ready now and if you want to beta test it, please send me a message. The only thing you need is a webcam and the Chrome browser. Sadly there is a bug in Firefox that will be fixed in version 55.</summary></entry><entry><title type="html">Third month</title><link href="https://blog.signdict.org/en/2017/06/01/third-month.html" rel="alternate" type="text/html" title="Third month" /><published>2017-06-01T09:00:00+02:00</published><updated>2017-06-01T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/06/01/third-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/06/01/third-month.html">&lt;p&gt;The third month went faster than I thought.&lt;/p&gt;
+
+&lt;p&gt;I can now proudly present you the beta of the site.
+Open &lt;a href=&quot;https://beta.signdict.org&quot;&gt;beta.signdict.org&lt;/a&gt;
+and you will find over 4.000 German signs. If you never
+got in contact with the german sign language you might
+wonder why some words have several sign variants attached
+to them. These are different dialects. Everyone can “like”
+for the variant they are familiar with. In the end
+this will make it possible to always show the most
+common variant on top.&lt;/p&gt;
+
+&lt;p&gt;Please try out the page and &lt;a href=&quot;http://beta.signdict.org/contact&quot;&gt;tell me&lt;/a&gt;
+what you think about it.&lt;/p&gt;
+
+&lt;p&gt;You won’t find the webcam functionality in this beta yet. I started
+working on it 2 weeks ago. Hopefully I can tell you more
+about that in the next month.&lt;/p&gt;</content><author><name></name></author><summary type="html">The third month went faster than I thought.</summary></entry><entry><title type="html">Second month</title><link href="https://blog.signdict.org/en/2017/05/02/second-month.html" rel="alternate" type="text/html" title="Second month" /><published>2017-05-02T09:00:00+02:00</published><updated>2017-05-02T09:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/05/02/second-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/05/02/second-month.html">&lt;p&gt;The second month is over and I made really good progress. The design is now
+added and it is possible to play, rate and search videos. Only a couple of
+things are missing to put a first beta online.&lt;/p&gt;
+
+&lt;p&gt;One of the most important things this week will be to upload nearly 1.000
+signs. With that amount of videos the beta should already be usable. As
+mentioned in the last blogpost I will focus on the core feature of this site
+after that: the recording of new signs using your webcam.&lt;/p&gt;
+
+&lt;p&gt;Keep your fingers crossed that I can keep up this speed.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or want to help, feel free
+to join the &lt;a href=&quot;https://signdict-slack-invite.herokuapp.com/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">The second month is over and I made really good progress. The design is now added and it is possible to play, rate and search videos. Only a couple of things are missing to put a first beta online.</summary></entry><entry><title type="html">First month</title><link href="https://blog.signdict.org/en/2017/03/31/first-month.html" rel="alternate" type="text/html" title="First month" /><published>2017-03-31T21:00:00+02:00</published><updated>2017-03-31T21:00:00+02:00</updated><id>https://blog.signdict.org/en/2017/03/31/first-month</id><content type="html" xml:base="https://blog.signdict.org/en/2017/03/31/first-month.html">&lt;p&gt;The first month is over now. The data model is done, the user sign up
+and the admin pages coded and the server configured. Thanks to
+&lt;a href=&quot;https://rrbone.net&quot;&gt;rrbone.net&lt;/a&gt; for donating the server 😘.&lt;/p&gt;
+
+&lt;p&gt;One other big todo is also done. &lt;a href=&quot;https://zweitag.de&quot;&gt;Zweitag&lt;/a&gt; created a design and the logo
+for signdict. Working together with them was really enjoyable. Here is
+a little preview of the design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/first-month.png&quot; alt=&quot;screenshot of the new design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides the help by rrbone and zweitag I also got help coding a few
+things by Tobias and Jan. I am still overwhelmed by the amount of help
+I am getting from everyone 🎉. A big thank you for that from me!&lt;/p&gt;
+
+&lt;p&gt;The next step is to implement the design. I hope by the end of next
+month you will be able to see videos on the page. If everything works
+out as planned I will work on the video recording and uploading from
+May on.&lt;/p&gt;</content><author><name></name></author><summary type="html">The first month is over now. The data model is done, the user sign up and the admin pages coded and the server configured. Thanks to rrbone.net for donating the server 😘.</summary></entry><entry><title type="html">Kick-Off Prototype Fund</title><link href="https://blog.signdict.org/en/2017/03/02/kickoff.html" rel="alternate" type="text/html" title="Kick-Off Prototype Fund" /><published>2017-03-02T12:30:50+01:00</published><updated>2017-03-02T12:30:50+01:00</updated><id>https://blog.signdict.org/en/2017/03/02/kickoff</id><content type="html" xml:base="https://blog.signdict.org/en/2017/03/02/kickoff.html">&lt;p&gt;Yesterday it finally happend. (Nearly) all participants of the &lt;a href=&quot;http://prototypefund.de&quot;&gt;Prototype Funds&lt;/a&gt;
+met for the kick-off workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kick-off-prototype-fund.jpg&quot; alt=&quot;Picture of all participants of the kick-off workshop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today is the first real workday and I will try to keep you up to date with
+a monthly status blog post. If you want to know the status in greater detail,
+feel free to follow the development &lt;a href=&quot;https://github.com/signdict/website/&quot;&gt;on Github&lt;/a&gt;
+or follow &lt;a href=&quot;https://twitter.com/signdict&quot;&gt;SignDict on Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yesterday it finally happend. (Nearly) all participants of the Prototype Funds met for the kick-off workshop.</summary></entry></feed>

@@ -1,22 +1,160 @@
----
-layout: default
-title:  Start
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+        <title>SignDict - Start</title>
 
-{% tf about_partial.md %}
+        <link type="application/atom+xml" rel="alternate" href="https://blog.signdict.org/feed.xml" title="SignDict" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/default.css">
+
+        <link rel="apple-touch-icon-precomposed" href="/favicon-152.png">
+        <link rel="icon" href="/favicon_64.png" sizes="64x64">
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> 
+      </head>
+    <body>
+      <div class="navbar-container">
+      <nav class="navbar navbar-light bg-faded mb-2">
+
+        
+          <a class="navbar-brand" href="https://signdict.org/?locale=de">SignDict</a>
+        
+
+        <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+        <div class="collapse navbar-toggleable-xs" id="navbarResponsive">
+          <ul class="nav navbar-nav float-sm-right navbar-toggleable-xs">
+            <li class="nav-item">
+              <a class="nav-link nav-about" href="https://signdict.org/about">Über</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link nav-about" href="https://signdict.org/imprint">Impressum</a>
+            </li>
+            
+              <li class="nav-item">
+                
+                <a class="nav-link" href="/en/">English</a>
+              </li>
+            
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+      <div class="container">
+
+        <div class="content">
+          <h1 id="willkommen">Willkommen</h1>
+
+<p>SignDict ist offenes Gebärdensprach-Wörterbuch zum Mitmachen. Fehlt eine
+Gebärde oder gibt es andere Varianten? Dann kann diese einfach mit einem
+Klick aufgenommen und hinzugefügt werden. Alles was du dazu brauchst ist
+deine Webcam. Der Name SignDict setzt sich zusammen aus Sign, dem
+englischen Wort für Gebärde, und Dictionary, dem englischen Wort für
+Wörterbuch.</p>
+
+<p><a href="https://signdict.org/about?locale=de">Weiterlesen…</a></p>
+
 
 <div class="home">
-  <h1>{% t global.news %}</h1>
+  <h1>Neuigkeiten</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    
       <li>
-        <span class="post-date">{{ post.date | date_to_string }}</span> &ndash;
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <span class="post-date">31 Mar 2018</span> &ndash;
+        <a class="post-link" href="/2018/03/31/api-and-docs.html">API und Dokumentation</a>
       </li>
-    {% endfor %}
+    
+      <li>
+        <span class="post-date">05 Nov 2017</span> &ndash;
+        <a class="post-link" href="/2017/11/05/eighth-month.html">Achter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">01 Oct 2017</span> &ndash;
+        <a class="post-link" href="/2017/10/01/seventh-month.html">Siebter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">02 Sep 2017</span> &ndash;
+        <a class="post-link" href="/2017/09/02/sixth-month.html">Sechster Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">05 Aug 2017</span> &ndash;
+        <a class="post-link" href="/2017/08/05/fifth-month.html">Fünfter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">03 Jul 2017</span> &ndash;
+        <a class="post-link" href="/2017/07/03/fourth-month.html">Vierter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">01 Jun 2017</span> &ndash;
+        <a class="post-link" href="/2017/06/01/third-month.html">Dritter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">02 May 2017</span> &ndash;
+        <a class="post-link" href="/2017/05/02/second-month.html">Zweiter Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">31 Mar 2017</span> &ndash;
+        <a class="post-link" href="/2017/03/31/first-month.html">Erster Monat</a>
+      </li>
+    
+      <li>
+        <span class="post-date">02 Mar 2017</span> &ndash;
+        <a class="post-link" href="/2017/03/02/kickoff.html">Kick-Off Prototype Fund</a>
+      </li>
+    
   </ul>
 
 </div>
 
-{% include newsletter.html %}
+<div class="card card-outline-primary mb-3 newsletter-subscribe">
+  <div class="card-block">
+    <p>Willst du auf dem laufenden bleiben? Folge uns <a href='https://twitter.com/signdict'>auf Twitter</a> oder melde dich zu unserem Newsletter an:</p>
+    <form class="form-inline mb-2" action="//signdict.us14.list-manage.com/subscribe/post?u=114f5361f32dc8c15abe804ea&amp;id=f96556b89f" method="post">
+      <div class="form-group">
+        <input type="email" class="form-control form-email" name="EMAIL" placeholder="Email" >
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_114f5361f32dc8c15abe804ea_f96556b89f" tabindex="-1" value=""></div>
+      </div>
+      <input type="submit" value="Anmelden" name="subscribe" class="btn btn-primary">
+    </form>
+  </div>
+</div>
+
+
+
+        </div>
+
+        <div class="footer">
+          <h1 class="so-footer--sponsorheader">
+            <a href="https://signdict.org/supporter">Unterstützer</a>          </h1>
+          <p>
+            <a href="https://bmbf.de"><img class="so-footer--sponsorlogo so-footer--bmbf" src="/images/logo-bmbf.svg" alt="Logo Bundesministerium für Bildung und Forschung"></a>
+            <a href="https://prototypefund.de"><img class="so-footer--sponsorlogo so-footer--prototype" src="/images/logo-prototype.svg" alt="Logo Prototype Fund"></a>
+            <a href="https://www.rrbone.net"><img class="so-footer--sponsorlogo so-footer--rrbone" src="/images/logo-rrbone.svg" alt="Logo rrone"></a>
+            <a href="https://zweitag.de"><img class="so-footer--sponsorlogo so-footer--zweitag" src="/images/logo-zweitag.png" alt="Logo zweitag"></a>
+          </p>
+          <p class="so-footer--sponsorabout">
+            <a href="https://signdict.org/supporter">Die komplette Liste an Unterstützern.</a>          
+          </p>
+        </div>
+
+      </div>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+    </body>
+</html>
 
